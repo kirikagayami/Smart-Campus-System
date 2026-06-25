@@ -1,1 +1,1 @@
-# Smart Cammpus System Core API v1.0
+# Smart Campus System Core API v1.0
